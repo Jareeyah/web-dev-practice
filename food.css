@@ -1,0 +1,56 @@
+.body{
+    background-color: rgb(231, 231, 243);
+    margin-top: 55px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;   
+}
+header{
+    background-color: rgb(39, 75, 95);
+    padding: 10px;
+    box-sizing: border-box;
+    word-spacing: 30px;
+    font-size: 13px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+p{
+    margin: 10px;
+    margin-left: 0px;
+}
+.fill{
+    margin: 20px;
+    margin-top: 1px;
+}
+.bp{
+    float: left;
+    margin: auto 200px;
+    margin-top: 20px;
+    justify-content: space-between;
+    gap: 40px;
+    display: flex;
+}
+.lb{
+    float: left;
+    margin: auto 200px;
+    margin-top: 20px;
+    justify-content: space-between;
+    gap: 40px;
+    display: flex;
+}
+.cp{
+    float: left;
+    margin: auto 200px;
+    margin-top: 20px;
+    justify-content: space-between;
+    gap: 40px;
+    display: flex;
+}
+img{
+    width: 400px;
+    height: 400px;
+}

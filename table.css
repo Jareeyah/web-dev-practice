@@ -1,0 +1,25 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 45px;
+}
+.tab{
+    width: 65%;
+    margin: 190px;
+    margin-top: 0px;
+    line-height: 30px;
+}
+.font{
+    font-weight: 600;
+}
+.hd, .nq{
+    background-color: rgb(55, 152, 204);
+    color: black;
+    padding: 200px;
+    font-size: 20px;
+}
+.stg{
+    background-color: rgb(55, 152, 204);
+    color: black;
+    font-size: 20px;
+}
